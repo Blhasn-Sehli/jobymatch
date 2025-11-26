@@ -1,0 +1,140 @@
+{
+  "name": "SEHLI BELLHASSEN",
+  "email": "sehlibellhassen@gmail.com",
+  "phone": "+216 25-062-462",
+  "title": "Full Stack Developer",
+  "summary": "Enthusiastic junior full-stack developer with a passion for crafting user-centric web applications.",
+  "education": [
+    {
+      "degree": "Engineering Degree in Computer Science",
+      "institution": "ISI Ariana",
+      "location": "ARIANA CITY",
+      "period": "2024 – 2027",
+      "details": ""
+    },
+    {
+      "degree": "Bachelor ’s Degree in Computer Science",
+      "institution": "ISSAT Mateur UNIVERSITY",
+      "location": "ARIANA CITY",
+      "period": "2021 – 2024",
+      "details": ""
+    },
+    {
+      "degree": "Mathematic Baccalaureate",
+      "institution": "BORJ LOUZIR HIGH SCHOOL",
+      "location": "ARIANA CITY",
+      "period": "2017 – 2021",
+      "details": ""
+    }
+  ],
+  "job_search_intent": {
+    "type": "Stage/emploi/alternance/freelance",
+    "level": "Junior",
+    "duration_min": "",
+    "duration_max": "",
+    "domains": [
+      "Front-end",
+      "Back-end"
+    ],
+    "availability": "Immédiate",
+    "location_preference": "Ariana City",
+    "extracted_from": ""
+  },
+  "experiences": [
+    {
+      "title": "Full Stack developer",
+      "company": "ROOLY S",
+      "location": "ARIANA CITY",
+      "period": "February 2024-May 2024",
+      "type": "Temps partiel",
+      "description": "Collaborated in the conception phases of the AD-EYES management system, including ERD, use case, and flowcharts, ensuring comprehensive system design and functionality.",
+      "technologies": [
+        "NextJs",
+        "TailwaindCss",
+        "NestJs",
+        "Nodemailer",
+        "Redux",
+        "MongoDB",
+        "Mongoose",
+        "next-pwa"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Netflix Clone",
+      "date": "",
+      "description": "Prepared all the interfaces using NextJs library Integrated Netflix Api For Data and Fetching Them Crafted A pixel Perfect design Link: https://netflix-mpk.vercel.app/ Technologies: Next.js,TailwaindCss",
+      "technologies": [
+        "Next.js",
+        "TailwaindCss"
+      ]
+    },
+    {
+      "name": "RecycleApp -Grenify",
+      "date": "",
+      "description": "Prepared all the interfaces using react-Native library Worked On the chat functionality using Firebase Implemented the SMS authentication using firebase OTP messaging Prepared the Home Page and the tips Page using react-native Technologies: React Native,FireBase",
+      "technologies": [
+        "React Native",
+        "FireBase"
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JQuery",
+      "React",
+      "Boostrap",
+      "MaterialUi",
+      "Typescript",
+      "NextJs",
+      "React-Native",
+      "Flutter",
+      "NodeJs",
+      "Express",
+      "Mysql",
+      "Sequelize",
+      "Mongodb",
+      "Mongoose",
+      "Firebase",
+      "NestJs",
+      "Postgress",
+      "Prisma"
+    ],
+    "tools": [
+      "Redux",
+      "MongoDB",
+      "Mongoose",
+      "next-pwa"
+    ],
+    "other": [
+      "Adaptability and Continuous Learning",
+      "Effective Communication",
+      "Collaboration and Teamwork"
+    ]
+  },
+  "languages": [
+    {
+      "language": "",
+      "level": ""
+    }
+  ],
+  "certifications": [
+    "RBK Full Stack Js Bootcamp Certification",
+    "05/06/2023 - 26/11/2023",
+    "9antra-The-Bridge Fullter Certification",
+    "01/05/2022 - 30/07/2022",
+    "Deutsch Certification Level B1",
+    "05/02/2021 - 03/03/2021"
+  ],
+  "associations": [
+    {
+      "name": "",
+      "position": "",
+      "period": ""
+    }
+  ]
+}
